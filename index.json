@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "netapp.aws",
+  "versions": [
+    {
+      "commit": "435befc587c333dec75afceec81c06924ee5f807",
+      "tag": "",
+      "parsed_at": "2026-11-07T17:42:18.603137+00:00"
+    }
+  ]
+}
